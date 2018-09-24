@@ -15,13 +15,25 @@ public class ProblemSet1 {
 	
 	public static void main(String[] args) {
 		System.out.println("/// EXERCISE 1 /////////////////////////////////////////////////\n");
+		System.out.println("   ##    ######  ######## ########\n  #  #   #     # #        #\n #    #  #     # #        #\n######## ######  #        ########\n#      # #       #               #\n#      # #       #               #\n#      # #       ######## ########");
+		System.out.println("");
+		
 		
 		System.out.println("/// EXERCISE 2 /////////////////////////////////////////////////\n");
+		System.out.println("  /\\     /\\     /\\\n /  \\   /  \\   /  \\\n/    \\ /    \\ /    \\\n\\    / \\    / \\    /\n \\  /   \\  /   \\  /\n  \\/     \\/     \\/");
+		System.out.println("");
 		
 		System.out.println("/// EXERCISE 3 /////////////////////////////////////////////////\n");
+		System.out.println("   \\\\\\\\\\\n  +\"\"\"\"\"+\n(|  0 0  |)\n |   ^   |\n |  '-'  |\n  +-----+");
+		
+		System.out.println("");
+		
 		
 		System.out.println("/// EXERCISE 4 /////////////////////////////////////////////////\n");
+		System.out.println("H E L L O\nE       A\nL       P\nL       C\nO A P C S");
+		System.out.println("");
 		
 		System.out.println("/// EXERCISE 5 /////////////////////////////////////////////////\n");
+		System.out.println("\"The answer\'s quite simple,\" the professor said. \"Just think outside the box!\"");
 	}
 }
